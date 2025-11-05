@@ -1,0 +1,7 @@
+tap "heroku/brew"
+brew "cocoapods"
+brew "go"
+brew "neovim"
+brew "node"
+brew "heroku/brew/heroku"
+cask "flutter"
